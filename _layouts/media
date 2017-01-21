@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<div class="media">
+    <a class="media__back" href="/">&lt;-- back</a>
+    <!--<h1 class="media__title">About Me:</h1>
+    -->
+    <div class="media__content">
+        {{ content }}
+    </div>
+</div>
