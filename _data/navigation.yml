@@ -1,5 +1,8 @@
 - title: about
   url: /me
+  
+- title: blog
+  url: /blog
 
 - title: github
   url: https://github.com/boribong
