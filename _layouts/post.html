@@ -20,8 +20,6 @@ layout: default
     {% assign tags_content = '' %}
 {% endif %}
 
-<p id="post-meta">{{ tags_content }}</p>
-
 <div class="post">
 	<div class="post__back">
     	<a href="/blog">&lt;-- blog</a>
@@ -40,7 +38,7 @@ layout: default
     </div>
 </div>
 
-{% include tagsforpost.html tags=page.tags %}
+<p id="post-meta">{{ tags_content }}</p>
 
 <!-- begin wwww.htmlcommentbox.com -->
  <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">Comment Box</a> is loading comments...</div>
