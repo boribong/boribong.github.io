@@ -23,8 +23,8 @@ layout: default
 {% assign post = page %}
 {% if post.tags.size > 0 %}
     {% capture tags_content %}Posted with {% if post.tags.size == 1 %}<i class="fa fa-tag"></i>{% else %}<i class="fa fa-tags"></i>{% endif %}: {% endcapture %}
-	{% for post_tag in post.tags %}
-    		{% assign tag = site.data.tags[post_tag] %}
+    {% for post_tag in post.tags %}
+    	{% assign tag = site.data.tags[post_tag] %}
             {% endif %}
         {% endfor %}
         {% if tag %}
@@ -35,6 +35,7 @@ layout: default
 {% else %}
     {% assign tags_content = '' %}
 {% endif %}
+
 <p id="post-meta">{{ tags_content }}</p>
 
 <!-- begin wwww.htmlcommentbox.com -->
