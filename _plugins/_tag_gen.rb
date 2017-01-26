@@ -1,4 +1,3 @@
-In the tag_gen file. put this:
 module Jekyll
   class TagIndex < Page
     def initialize(site, base, dir, tag)
