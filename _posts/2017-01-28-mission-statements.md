@@ -37,7 +37,7 @@ The university's mission statement is heavily rooted in Jesuit and Catholic teac
 
 <center><img src="https://www.dropbox.com/s/vfy3qm2k41cvvog/VCU-Logo.png?raw=1" width="187" height="187"></center>
 
-**Location:** Richmond, VA
+**Location:** Richmond, Virginia 
 
 **Country:** United States of America
 
