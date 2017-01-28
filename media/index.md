@@ -2,8 +2,6 @@
 layout: media
 ---
 
-# Social Media Links
-
 [linkedin](https://linkedin.com/in/brittany-boribong)
 
 
