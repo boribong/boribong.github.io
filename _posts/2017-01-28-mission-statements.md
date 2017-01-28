@@ -5,7 +5,7 @@ category: vt
 tags: [pfp-s17]
 ---
 
-##University of Scranton
+## University of Scranton
 
 <center><img src="https://www.dropbox.com/s/bcdgpibadngrd92/Scranton-Logo.png?raw=1" width="187" height="217"></center>
 
@@ -33,7 +33,7 @@ Their [mission statement](http://www.scranton.edu/about/jesuit-tradition/index.s
 
 The university's mission statement is heavily rooted in Jesuit and Catholic teachings. Jesuits are known for being teachers, thus it is no surprise that this statement places a large emphasis on achieving a superior learning experience through growth in wisdom and spirituality. However, their statement is rather vague, mentioning that their education is "transformative" but not describing how and in what way this will help prepare their students. In this mission statement, the university is committing itself to following the ways of the Society of Jesus, believing this will allow the university to prosper.
 
-##Virginia Commonwealth University
+## Virginia Commonwealth University
 
 <center><img src="https://www.dropbox.com/s/vfy3qm2k41cvvog/VCU-Logo.png?raw=1" width="187" height="187"></center>
 
