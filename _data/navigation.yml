@@ -1,6 +1,9 @@
 - title: about
   url: /me
   
+  -title: research
+  url: /research
+  
 - title: blog
   url: /blog
 
