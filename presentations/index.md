@@ -1,5 +1,5 @@
 ---
-layout: research
+layout: presentations
 ---
 
 ##Oral Presentations
