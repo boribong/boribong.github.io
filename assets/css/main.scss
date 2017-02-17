@@ -74,7 +74,6 @@ blockquote {
 		display: block;
 	}
 	h1 {
-		font-family: 'Merriweather', ;
 		font-size: 2em;
 		margin-bottom: 0;
 	}
@@ -226,6 +225,7 @@ blockquote {
 
 .about {
 	&__title {
+		font-family: 'Merriweather', ;
 		font-size: 1.6em;
 		font-weight: 700;
 		margin-top: 20px;
@@ -256,6 +256,7 @@ blockquote {
 		}
 	}
 	&__title {
+		font-family: 'Merriweather', ;
 		display: block;
 		margin-top: 20px;
 		margin-bottom: 6px;
