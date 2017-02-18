@@ -71,13 +71,12 @@ blockquote {
 .header {
 	display: flex;
 	justify-content: space-between;
-	align-items: baseline;
+	align-items: center;
 	padding-bottom: 50px;
 	@media screen and (max-width: $br) {
 		display: block;
 	}
 	h1 {
-		text-align: center;
 		font-size: 2em;
 		margin-bottom: 0;
 	}
