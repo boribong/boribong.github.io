@@ -8,8 +8,8 @@ Hello, my name is Brittany Boribong. I received my B.S. from the [University of 
 Please feel free to contact me at boribong at vt.edu or connect with me on social media. 
 
 <center><a href="mailto:boribong@vt.edu"><img src="/assets/img/Email-Icon.png" alt="mailto:boribong@vt.edu" title="mailto:boribong@vt.edu" width="50" height="50" /></a>
-<a href="https://github.com/boribong"><img src="/assets/img/GitHub-Icon.png" alt="https://github.com/boribong" title="https://github.com/boribong" width="50" height="50" /></a>
 <a href="https://linkedin.com/in/brittany-boribong"><img src="/assets/img/LinkedIn-Icon.png" alt="https://linkedin.com/in/brittany-boribong" title="https://linkedin.com/in/brittany-boribong" width="50" height="50" /></a>
+<a href="https://github.com/boribong"><img src="/assets/img/GitHub-Icon.png" alt="https://github.com/boribong" title="https://github.com/boribong" width="50" height="50" /></a>
 <a href="mhttps://twitter.com/bboribong_"><img src="/assets/img/Twitter-Icon.png" alt="https://twitter.com/bboribong_" title="https://twitter.com/bboribong_" width="50" height="50" /></a>
 <a href="https://instagram.com/bboribong"><img src="/assets/img/Instagram-Icon.png" alt="https://instagram.com/bboribong" title="https://instagram.com/bboribong" width="50" height="50" /></a>
 <a href="https://boribong.github.io/feed/feed.pfp-s17.xml"><img src="/assets/img/RSS-Icon.png" alt="https://boribong.github.io/feed/feed.pfp-s17.xml" title="https://boribong.github.io/feed/feed.pfp-s17.xml" width="50" height="50" /></a></center>
