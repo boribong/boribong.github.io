@@ -1,6 +1,7 @@
 ---
 layout: service
 ---
+# Service and Outreach
 
 <center><img src="/assets/img/2013NOLA.jpg" width="600" height="450"></center>
 
