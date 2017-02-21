@@ -1,9 +1,9 @@
 ---
 layout: presentations
 ---
-### Upcoming Presentation
+**Upcoming Presentation**
 
-#### Oral Presentation: *Measuring neutrophil migration patterns using microfluidic devices and ODE modeling of the mechanistic molecular pathways*, Graduate Student Assembly Research Symposium, Blacksburg VA, March 2017.
+**Oral Presentation: *Measuring neutrophil migration patterns using microfluidic devices and ODE modeling of the mechanistic molecular pathways*, Graduate Student Assembly Research Symposium, Blacksburg VA, March 2017.**
 
 # Oral Presentations
 <center><img src="/assets/img/NIMBioS-Presentation.jpg" width="600" height="450"></center>
