@@ -3,6 +3,8 @@ layout: presentations
 ---
 **Upcoming Presentation**
 
+**Wednesday, March 29, 2017 - Virginia Tech Graduate Life Center Multi-Purpose Room**
+
 **Oral Presentation: *Measuring neutrophil migration patterns using microfluidic devices and ODE modeling of the mechanistic molecular pathways*, Graduate Student Assembly Research Symposium, Blacksburg VA, March 2017.**
 
 # Oral Presentations
