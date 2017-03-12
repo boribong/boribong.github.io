@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research Ethics: A Case Study
+title: Research Ethics - A Case Study
 category: vt
 tags: [pfp-s17]
 ---
