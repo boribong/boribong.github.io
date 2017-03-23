@@ -7,7 +7,7 @@ layout: presentations
 
 **Oral Presentation: *Measuring neutrophil migration patterns using microfluidic devices and ODE modeling of the mechanistic molecular pathways*, Graduate Student Assembly Research Symposium, Blacksburg VA, March 2017.**
 
-- **Friday, April 07, 2017 - Virginia Tech Graduate Life Center Multi-Purpose Room**
+- **Friday, April 07, 2017 - Virginia Tech Litton Reaves Room 1810**
 
 - **Thursday, April 13, 2017 - Virginia Tech Kelly Hall Room 310**
 
