@@ -1,11 +1,15 @@
 ---
 layout: presentations
 ---
-**Upcoming Presentation**
+**Upcoming Presentations**
 
-**Wednesday, March 29, 2017 - Virginia Tech Graduate Life Center Multi-Purpose Room**
+- **Wednesday, March 29, 2017 - Virginia Tech Graduate Life Center Multi-Purpose Room**
 
 **Oral Presentation: *Measuring neutrophil migration patterns using microfluidic devices and ODE modeling of the mechanistic molecular pathways*, Graduate Student Assembly Research Symposium, Blacksburg VA, March 2017.**
+
+- **Friday, April 07, 2017 - Virginia Tech Graduate Life Center Multi-Purpose Room**
+
+- **Thursday, April 13, 2017 - Virginia Tech Kelly Hall Room 310**
 
 # Oral Presentations
 <center><img src="/assets/img/NIMBioS-Presentation.jpg" width="600" height="450"></center>
