@@ -7,7 +7,7 @@ tags: [pfp-s17]
 
 <center><img src="http://www.worldatlas.com/webimage/flags/flags_database/Flag_of_Laos.png"></center>
 
-Laos (Lao People's Democratic Republic) is located within Southeast Asia. Laos is a communist state and is listed as one of the United Nations' [lease developed country](https://www.un.org/development/desa/dpad/least-developed-country-category/ldcs-at-a-glance.html).
+Laos (Lao People's Democratic Republic) is located within Southeast Asia. Laos is a communist state and is listed as one of the United Nations' [least developed countries](https://www.un.org/development/desa/dpad/least-developed-country-category/ldcs-at-a-glance.html).
 
 The current education system in Laos can be structured into [three categories](http://www.epdc.org/country/laos): 
 * Primary (5 years)
