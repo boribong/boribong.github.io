@@ -5,7 +5,7 @@ category: vt
 tags: [pfp-s17]
 ---
 
-I was interested in this article published in Chronicle about how to have (happy professors)[http://www.chronicle.com/article/Want-Happier-Professors-Try/239952]. The article spoke about a study that surveyed over 3,000 recently tenured associate professors to determine what they found important in being committed to their institution. Their results showed that a supportive and caring environment was crucial to their appeasement. The results were summed as followed: 
+I was interested in this article published in Chronicle about how to have [happy professors](http://www.chronicle.com/article/Want-Happier-Professors-Try/239952). The article spoke about a study that surveyed over 3,000 recently tenured associate professors to determine what they found important in being committed to their institution. Their results showed that a supportive and caring environment was crucial to their appeasement. The results were summed as followed: 
 
 >Organizations that cultivate a climate of support will, on average, exhibit higher levels of commitment than those that focus on external policies and procedures
 
