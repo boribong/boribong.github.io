@@ -2,6 +2,9 @@
 layout: presentations
 ---
 
+**Upcoming Poster Presentation**
+
+***Measuring neutrophil migration patterns using microfluidic devices and ODE modeling of the mechanistic molecular pathways*, Mid Atlantic PREP/IMSD Research Symposium, Baltimore MD, May 2017.**
 
 # Oral Presentations
 <center><img src="/assets/img/NIMBioS-Presentation.jpg" width="600" height="450"></center>
