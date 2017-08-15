@@ -25,7 +25,7 @@ layout: presentations
 
 
 # Poster Presentations
-<center><img src="/assets/img/BORIBONG_MBI-Presentation.png" width="600" height="450"></center>
+<center><img src="/assets/img/BORIBONG_ICSB-Presentation.png" width="600" height="450"></center>
 
 - *Measuring neutrophil migration patterns using microfluidic devices and ODE modeling of the mechanistic molecular pathways*, 2017 International Conference on Systems Biology, Blacksburg VA, August 2017.
 - *Measuring neutrophil migration patterns using microfluidic devices and ODE modeling of the mechanistic molecular pathways*, Mid Atlantic PREP/IMSD Research Symposium, Baltimore MD, May 2017.
