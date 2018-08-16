@@ -2,17 +2,11 @@
 layout: presentations
 ---
 
-**Upcoming Presentations**
-
-***Quantifying effects of neutrophil memory on migration patterns using microfluidic platforms and ODE modeling of the mechanistic molecular pathwayss*, Society for Leukocyte Biology 2017 Annual Meeting, Vancouver BA Canada, October 2017.**
-
-***Microfluidic Platform To Decode And Modulate Neutrophil Migration Phenotypes In Sepsis*, Biomedical Engineering Society 2017 Annual Meeting, Phoenix AZ, October 2017.**
-
-***Measuring neutrophil migration patterns using microfluidic devices and ODE modeling of the mechanistic molecular pathways*, 2017 Summit of the Virginia Academy of Science, Engineering, and Medicine, Washington DC MD, October 2017.**
 
 # Oral Presentations
 <center><img src="/assets/img/NIMBioS-Presentation.jpg" width="600" height="450"></center>
 
+- *Quantifying effects of neutrophil memory on migration patterns using microfluidic platforms and ODE modeling of the mechanistic molecular pathways*, Society for Leukocyte Biology 2017 Annual Meeting, Vancouver BA Canada, October 2017.
 - *Measuring neutrophil migration patterns using microfluidic devices and ODE modeling of the mechanistic molecular pathways*, Virginia Tech Undergradute Immunology Course (BIOL 4704) Guest Lecture, Blacksburg VA, April 2017.
 - *Measuring neutrophil migration patterns using microfluidic devices and ODE modeling of the mechanistic molecular pathways*, Virginia Tech PREP/IMSD/Carver Biweekly Forum, Blacksburg VA, April 2017.
 - *Measuring neutrophil migration patterns using microfluidic devices and ODE modeling of the mechanistic molecular pathways*, Virginia Tech Computational Tissue Engineering Student Seminar, Blacksburg VA, April 2017.
@@ -26,7 +20,8 @@ layout: presentations
 
 # Poster Presentations
 <center><img src="/assets/img/BORIBONG_ICSB-Presentation.png" width="600" height="450"></center>
-
+- *Measuring neutrophil migration patterns using microfluidic devices and ODE modeling of the mechanistic molecular pathways*, 2017 Summit of the Virginia Academy of Science, Engineering, and Medicine, Washington DC MD, October 2017.
+- *Microfluidic Platform To Decode And Modulate Neutrophil Migration Phenotypes In Sepsis*, Biomedical Engineering Society 2017 Annual Meeting, Phoenix AZ, October 2017.
 - *Measuring neutrophil migration patterns using microfluidic devices and ODE modeling of the mechanistic molecular pathways*, 2017 International Conference on Systems Biology, Blacksburg VA, August 2017.
 - *Measuring neutrophil migration patterns using microfluidic devices and ODE modeling of the mechanistic molecular pathways*, Mid Atlantic PREP/IMSD Research Symposium, Baltimore MD, May 2017.
 - *A Mathematical-Experimental Strategy to Decode the Complex Molecular Basis for Neutrophil Migratory Decision Making*, Biocomplexity Institute Research Symposium, Blacksburg VA, November 2016.
