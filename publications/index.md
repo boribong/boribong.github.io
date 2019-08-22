@@ -3,6 +3,13 @@ layout: default
 title: Publications
 ---
 
+<center><a href=""><img src="/images/google-scholar-icon.png" alt="https://scholar.google.com/citations?user=SpJNsxYAAAAJ&hl=en" title="https://scholar.google.com/citations?user=SpJNsxYAAAAJ&hl=en" width="50" height="50" /></a>
+<a href="https://orcid.org/0000-0003-1297-6337"><img src="/images/orcid-icon.png" alt="https://orcid.org/0000-0003-1297-6337" title="https://orcid.org/0000-0003-1297-6337" width="50" height="50" /></a>
+</center>
+
+<br>
+<p></p>
+
 **Boribong, BP**, Lenzi, MJ, Li, L, & Jones, CN (2019). **Super-low dose lipopolysaccharide dysregulates neutrophil migratory decision-making**. Frontiers in Immunology, 10, 359. [https://doi.org/10.3389/fimmu.2019.00359](https://doi.org/10.3389/fimmu.2019.00359)
 
 **Boribong, BP**, Rahimi, A, & Jones, CN (2019). **Microfluidic Platform to Quantify Neutrophil Migratory Decision-Making**. In *Mouse Models of Innate Immunity* (pp. 113-122). Humana Press, New York, NY. [https://doi.org/10.1007/978-1-4939-9167-9_10](https://doi.org/10.1007/978-1-4939-9167-9_10)
