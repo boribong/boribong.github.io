@@ -5,7 +5,9 @@ title: Publications
 
 <center><a href="https://scholar.google.com/citations?user=SpJNsxYAAAAJ&hl=en"><img src="/images/google-scholar-icon.png" alt="https://scholar.google.com/citations?user=SpJNsxYAAAAJ&hl=en" title="https://scholar.google.com/citations?user=SpJNsxYAAAAJ&hl=en" width="50" height="50" /></a>
 <a href="https://orcid.org/0000-0003-1297-6337"><img src="/images/orcid-icon.png" alt="https://orcid.org/0000-0003-1297-6337" title="https://orcid.org/0000-0003-1297-6337" width="50" height="50" /></a>
+<a href="https://www.researchgate.net/profile/Brittany_Boribong"><img src="/images/researchgate-icon.png" alt="https://www.researchgate.net/profile/Brittany_Boribong" title="https://www.researchgate.net/profile/Brittany_Boribong" width="50" height="50" /></a>
 </center>
+
 
 <br>
 <p></p>
