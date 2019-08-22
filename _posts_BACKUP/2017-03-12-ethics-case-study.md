@@ -1,0 +1,14 @@
+---
+layout: post
+title: Research Ethics - A Case Study
+category: vt
+tags: [pfp-s17]
+---
+
+The [Office of Research Integrity (OFRI)](https://ori.hhs.gov/) is an institution committed to responding to and preventing research misconduct conducted within the Public Health Services (PHS). One way in which they carry out their mission is by publishing cases of research misconduct and the consequences that followed. I will be reviewing the case of [Ricky Malhotra, Ph.D.](https://ori.hhs.gov/content/case-summary-malhotra-ricky) 
+
+Dr. Malhotra was a Research Assistant Professor at the University of Michigan from 2005 to 2006. While at the University of Michigan, Dr. Malhotra replicated Western blot images to represent different proteins and reported data on experiments he did not perform. These "results" were used in multiple research grant applications. There was an internal investigation of his work during his time at the University of Michigan, but there was no mention of what the outcome was at the time. After his time at the University of Michigan, Dr. Malhotra moved to the University of Chicago, where he served as a Research Assistant Professor from 2007-2011. While at the University of Chicago, Dr. Malhotra once again mislabeled and fabricated Western blots results for grant images and a publication in the Journal of Biochemistry. 
+
+After his misconduct was found, he agreed to a Voluntary Settlement Agreement. In this, he agreed that he would not apply or work with research supported by the U.S. PHS within a five year period, starting from 2016 May. If he does work with the PHS in some capacity within this period, he has agreed to have his research supervised for ten years, starting from when he begins his PHS-supported endevors. Supervision includes a committee of senior faculty members at his institution familiar with his work reviewing any grant applications and publications related to PHS. He must also submit a certification that hsi results are legitimate and accurately reported to the OFRI. He has also agreed to not serve in an advisory poition with the PHS for five years. Lastly, he agreed to retract his publication in which he fabricated his results, as can be seen on the article's page on both the [Journal of Biochemistry's website](http://www.jbc.org/content/285/18/13748.long) and [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2859538/). Interestingly enough, this article has received 33 citations, the latest being an [article](http://www.sciencedirect.com/science/article/pii/S0925443917300315) in 2017, despite the retraction in 2016. 
+
+This investigation of research misconduct was done in 2016, after Dr. Malhotra had left both the University of Michigan and the University of Chicago. He does not seem to be currently affiliated with any university or institution.
