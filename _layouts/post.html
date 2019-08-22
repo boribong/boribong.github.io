@@ -1,47 +1,19 @@
 ---
 layout: default
 ---
+<article class="post">
 
-<div class="post">
-	<div class="post__back">
-    	<a href="/blog">&lt;-- blog</a>
-    </div>
-    <div class="post__title">
-    	<h1>{{ page.title }}</h1>
-    </div>
-    <div class="post__date">
-    	<p>{{ page.date | date: '%B %-d, %Y' }}</p>
-    </div>
-    <div class="post__meta">
-    	<p>{{ tags_content }}</p>
-    </div>
-    <div class="post__content"?>
-        {{ content }}
-    </div>
-</div>
+	{% if page.external-url %}
+		<h1>
+			<a href="{{ page.external-url }}">{{ page.title }}</a> 
+			<a class="anchor" href="{{ page.url }}"><i class="icon-anchor"></i></a>
+		</h1>
+	{% else %}
+		<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+	{% endif %}
 
-{% assign post = page %}
-{% if post.tags.size > 0 %}
-    {% capture tags_content %}Posted with {% if post.tags.size == 1 %}<i class="fa fa-tag"></i>{% else %}<i class="fa fa-tags"></i>{% endif %}: {% endcapture %}
-    {% for post_tag in post.tags %}
-        {% for data_tag in site.data.tags %}
-            {% if data_tag.slug == post_tag %}
-                {% assign tag = data_tag %}
-            {% endif %}
-        {% endfor %}
-        {% if tag %}
-            {% capture tags_content_temp %}{{ tags_content }}<a href="/blog/tag/{{ tag.slug }}/">{{ tag.name }}</a>{% if forloop.last == false %}, {% endif %}{% endcapture %}
-            {% assign tags_content = tags_content_temp %}
-        {% endif %}
-    {% endfor %}
-{% else %}
-    {% assign tags_content = '' %}
-{% endif %}
+	<div class="post-content">{{ content }}</div>
 
-<p id="post-meta">{{ tags_content }}</p>
-<br><br>
-<!-- begin wwww.htmlcommentbox.com -->
- <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">Comment Box</a> is loading comments...</div>
- <link rel="stylesheet" type="text/css" href="//www.htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css?v=0" />
- <script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=hcb_user.PAGE || (""+window.location).replace(/'/g,"%27"), h="//www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&mod=%241%24wq1rdBcg%24lgf984mKHCQIUCr1R6tix."+"&opts=16862&num=10&ts=1485390779968");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
-<!-- end www.htmlcommentbox.com -->
+	<p class="meta">Posted on <span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span></p>
+
+</article>

@@ -1,28 +1,9 @@
-# Blog settings
-permalink: /blog/:title
-title: Brittany Boribong
+name: Brittany P. Boribong
+url: boribong.github.io
+description: PhD Candidate in Genetics, Bioinformatics, and Computational Biology at Virginia Tech
 
+permalink: /:year/:month/:day/:title/
+paginate: 10
 
-# My variables
-name: Brittany Boribong
-description: Futuristic web design
-google_verification: null
-
-
-# File management
-include: [".htaccess"]
-exclude: ["README.md", "LICENSE"]
-
-
-# Sass
-sass:
-  style: :compressed
-  sass_dir: _sass
-
-
-# Markdown
-markdown: kramdown
-kramdown:
-  input: GFM
-  hard_wrap: false
-highlighter: rouge
+gems: [jekyll-paginate]
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
