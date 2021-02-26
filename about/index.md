@@ -9,7 +9,7 @@ Hello, my name is Brittany Boribong. I am currently a Postdoctoral Research Fell
 
 Please feel free to contact me at bboribong at mgh at harvard dot edu or connect with me on social media. <br>
 
-<center><a href="mailto:boribong@vt.edu"><img src="/images/Email-Icon.png" alt="mailto:boribong@vt.edu" title="boribong@vt.edu" width="50" height="50" /></a>
+<center><a href="mailto:bboribong@mgh.harvard.edu"><img src="/images/Email-Icon.png" alt="mailto:boribong@vt.edu" title="boribong@vt.edu" width="50" height="50" /></a>
 <a href="https://linkedin.com/in/brittany-boribong"><img src="/images/LinkedIn-Icon.png" alt="https://linkedin.com/in/brittany-boribong" title="https://linkedin.com/in/brittany-boribong" width="50" height="50" /></a>
 <a href="https://github.com/boribong"><img src="/images/GitHub-Icon.png" alt="https://github.com/boribong" title="https://github.com/boribong" width="50" height="50" /></a>
 <a href="https://twitter.com/bboribong_"><img src="/images/Twitter-Icon.png" alt="https://twitter.com/bboribong_" title="https://twitter.com/bboribong_" width="50" height="50" /></a>
