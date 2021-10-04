@@ -12,6 +12,14 @@ title: Publications
 <br>
 <p></p>
 
+**Boribong BP**, Arya P, & Yonker LM (2021). **The Heart of the Problem in Multisystem Inflammatory Syndrome in Children**. Med, 2, 9. [https://doi.org/10.1016/j.medj.2021.08.008][https://doi.org/10.1016/j.medj.2021.08.008]
+
+Yonker LM, Gilboa T, Ogata AF, Senussi Y, Lazarovits R, **Boribong BP**, Bartsch YC, Loiselle M, Rivas MN, Porritt RA, Lima R, Davis JP, Farkas EJ, Burns MD, Young N, Mahajan VS, Hajizadeh S, Herrera Lopez XI, Kreuzer J, Morris R, Martinez EE, Han I, Griswold Jr. K, Barry NC, Thompson DB, Church G, Edlow AG, Haas W, Pillai S, Arditi M, Alter G, Walt DR, & Fasano A (2021). **Multisystem inflammatory syndrome in children is driven by zonulin-dependent loss of gut mucosal barrier**. The Journal of Clinical Investigation, 131(14):e149633. [https://doi.org/10.1172/JCI149633][https://doi.org/10.1172/JCI149633]
+
+Davis MM, Brock AM, DeHart TG, **Boribong BP**, Lee K, McClune ME, Chang Y, Cramer N, Liu J, Jones CN, & Jutras BL (2021). **The peptidoglycan-associated protein NapA plays an important role in the envelope integrity and in the pathogenesis of the lyme disease spirochete**. PloS Pathogens, 17, 5. [https://doi.org/10.1371/journal.ppat.1009546][https://doi.org/10.1371/journal.ppat.1009546]
+
+Ciupe SM, **Boribong BP**, Kadelka S, & Jones CN (2021). **Bistable mathematical model of neutrophil migratory patterns after LPS-induced epigenetic reprogramming**. Frontiers in Genetics, 12, 172. [https://doi.org/10.3389/fgene.2021.633963][https://doi.org/10.3389/fgene.2021.633963]
+
 **Boribong, BP**, Lenzi, MJ, Li, L, & Jones, CN (2019). **Super-low dose lipopolysaccharide dysregulates neutrophil migratory decision-making**. Frontiers in Immunology, 10, 359. [https://doi.org/10.3389/fimmu.2019.00359](https://doi.org/10.3389/fimmu.2019.00359)
 
 **Boribong, BP**, Rahimi, A, & Jones, CN (2019). **Microfluidic Platform to Quantify Neutrophil Migratory Decision-Making**. In *Mouse Models of Innate Immunity* (pp. 113-122). Humana Press, New York, NY. [https://doi.org/10.1007/978-1-4939-9167-9_10](https://doi.org/10.1007/978-1-4939-9167-9_10)
