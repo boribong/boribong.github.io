@@ -12,7 +12,7 @@ title: Publications
 <br>
 <p></p>
 
-Burns MD\*, **Boribong BP**\*, Bartsch YC, Loiselle ME, St. Denis KJ, Sheehan ML, Chen JW, Davis JP, Lima R, Edlow AG, Fasano A, Balazs AB, Alter G, & Yonker LM (2022). **Durability and Cross-Reactivity of SARS-CoV-2 mRNA Vaccine in Adolescent Children**. Vaccines, 10(4), 492. [https://doi.org/10.3390/vaccines10040492](https://doi.org/10.3390/vaccines10040492) \* denotes equal contribution
+Burns MD\*, **Boribong BP**\*, Bartsch YC, Loiselle ME, St. Denis KJ, Sheehan ML, Chen JW, Davis JP, Lima R, Edlow AG, Fasano A, Balazs AB, Alter G, & Yonker LM (2022). **Durability and Cross-Reactivity of SARS-CoV-2 mRNA Vaccine in Adolescent Children**. Vaccines, 10(4), 492. [https://doi.org/10.3390/vaccines10040492](https://doi.org/10.3390/vaccines10040492) \*denotes equal contribution
 
 Silverstein NJ, Wang Y, Manickas-Hill Z, Carbone C, Dauphin A, **Boribong BP**, Loiselle ME, Davis JP, Leonard MM, Kuri-Cervantes L, MGH COVID-19 Collection & Processing Team, Meyer NJ, Betts MR, Li JZ, Walker BD, Xu GY, Yonker LM, & Luban J (2022). **Innate lymphoid cells and COVID-19 severity in SARS-CoV-2 infection**. eLife, 11, e74681. [https://doi.org/10.7554/eLife.74681](https://doi.org/10.7554/eLife.74681)
 
