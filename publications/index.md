@@ -12,6 +12,10 @@ title: Publications
 <br>
 <p></p>
 
+**12.** Yonker LM, Badaki-Makun O, Arya P, **Boribong BP**, Moraru G, Fenner B, Rincon J, Hopke A, Rogers B, Hinson J, Fasano A, Lee L, Kehoe SM, Larson SD, Chavez H, Levin S, Moldawer LL, & Irimia D (2022). **Monocyte anisocytosis increases during multisystem inflammatory syndrome in children with cardiovascular complications**. *BMC Infectious Disease*, 22(1), 1-11. [https://doi.org/10.1186/s12879-022-07526-9](https://doi.org/10.1186/s12879-022-07526-9)
+
+**11.** Yonker LM, Swank Z, Gilboa T, Senussi Y, Kenyon V, Papadakis L, **Boribong BP**, Carroll RW, Walt DR, Fasano F (2022). **Zonulin Antagonist, Larazotide (AT1001), As an Adjuvant Treatment for Multisystem Inflammatory Syndrome in Children: A Case Series**. *Critical Care Explorations*, 10(2). [https://doi.org/10.1097%2FCCE.0000000000000641](https://doi.org/10.1097%2FCCE.0000000000000641)
+
 **10.** Burns MD\*, **Boribong BP**\*, Bartsch YC, Loiselle ME, St. Denis KJ, Sheehan ML, Chen JW, Davis JP, Lima R, Edlow AG, Fasano A, Balazs AB, Alter G, & Yonker LM (2022). **Durability and Cross-Reactivity of SARS-CoV-2 mRNA Vaccine in Adolescent Children**. *Vaccines*, 10(4), 492. [https://doi.org/10.3390/vaccines10040492](https://doi.org/10.3390/vaccines10040492) \*denotes equal contribution
 
 **9.** Silverstein NJ, Wang Y, Manickas-Hill Z, Carbone C, Dauphin A, **Boribong BP**, Loiselle ME, Davis JP, Leonard MM, Kuri-Cervantes L, MGH COVID-19 Collection & Processing Team, Meyer NJ, Betts MR, Li JZ, Walker BD, Xu GY, Yonker LM, & Luban J (2022). **Innate lymphoid cells and COVID-19 severity in SARS-CoV-2 infection**. *eLife*, 11, e74681. [https://doi.org/10.7554/eLife.74681](https://doi.org/10.7554/eLife.74681)
