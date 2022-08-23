@@ -8,7 +8,7 @@ title: Publications
 <a href="https://www.researchgate.net/profile/Brittany_Boribong"><img src="/images/researchgate-icon.png" alt="https://www.researchgate.net/profile/Brittany_Boribong" title="https://www.researchgate.net/profile/Brittany_Boribong" width="50" height="50" /></a>
 </center>
 
-<span style="font-size:1.5em">
+<span style="font-size:1em">
 **12.** Bartsch YC, St Dennis KJ, Kaplonek P, Kang J, Lam EC, Burns MD, Farkas EJ, Davis JP, **Boribong BP**, Edlow AG, Fasano A, Shreffler W, Zavadska D, Johnson M, Goldblatt D, Balazs AB, Yonker LM, & Alter G (2022). **SARS-CoV-2 mRNA vaccination elicits robust antibody responses in children**. *Science Translational Medicine*, eabn9237. [https://doi.org/10.1126/scitranslmed.abn9237](https://doi.org/10.1126/scitranslmed.abn9237)
 </span>
 <br>
