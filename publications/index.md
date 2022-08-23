@@ -12,6 +12,8 @@ title: Publications
 <br>
 <p></p>
 
+<span style="font-size:1.5em">
+
 **12.** Bartsch YC, St Dennis KJ, Kaplonek P, Kang J, Lam EC, Burns MD, Farkas EJ, Davis JP, **Boribong BP**, Edlow AG, Fasano A, Shreffler W, Zavadska D, Johnson M, Goldblatt D, Balazs AB, Yonker LM, & Alter G (2022). **SARS-CoV-2 mRNA vaccination elicits robust antibody responses in children**. *Science Translational Medicine*, eabn9237. [https://doi.org/10.1126/scitranslmed.abn9237](https://doi.org/10.1126/scitranslmed.abn9237)
 
 **11.** Yonker LM, Badaki-Makun O, Puneeta A, **Boribong BP**, Moraru G, Fenner B, Rincon J, Hopke A, Rogers B, Hinson J, Fasano A, Lee L, Kehoe SM, Larson SD, Chavez H, Levin S, Moldawer LL, & Irimia D (2022). **Monocyte anisocytosis increases during multisystem inflammatory syndrome in children with cardiovascular complications**. *BMC Infectious Disease*, 22(1), 1-11. [https://doi.org/10.1186/s12879-022-07526-9](https://doi.org/10.1186/s12879-022-07526-9)
@@ -35,3 +37,5 @@ title: Publications
 **2.** **Boribong, BP**, Rahimi, A, & Jones, CN (2019). **Microfluidic Platform to Quantify Neutrophil Migratory Decision-Making**. In *Mouse Models of Innate Immunity* (pp. 113-122). Humana Press, New York, NY. [https://doi.org/10.1007/978-1-4939-9167-9_10](https://doi.org/10.1007/978-1-4939-9167-9_10)
 
 **1.** Kadelka, S, **Boribong, BP**, Li, L, & Ciupe, SM (2019). **Modeling the Bistable Dynamics of the Innate Immune System**. *Bulletin of Mathematical Biology*, 81(1), 256-276. [https://doi.org/10.1007/s11538-018-0527-y](https://doi.org/10.1007/s11538-018-0527-y)
+  
+</span>
