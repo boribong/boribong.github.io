@@ -11,7 +11,6 @@ Hello! My name is Brittany Boribong. I am currently a Postdoctoral Research Fell
 Please feel free to contact me at bboribong at mgh at harvard dot edu or connect with me on social media. 
 </span>
   
-<br>
 
 
 <center><a href="mailto:bboribong@mgh.harvard.edu"><img src="/images/Email-Icon.png" alt="mailto:bboribong@mgh.harvard.edu" title="bboribong@mgh.harvard.edu" width="50" height="50" /></a>
