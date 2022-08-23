@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research
-fontsize: 12pt
+fontsize: 1.5em
 ---
 
 
