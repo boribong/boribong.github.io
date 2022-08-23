@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-fontsize: 12pt
+fontsize: 20pt
 ---
 
 <center> <strong> <font size = "6" color = "#cb4b16"> ສະບາຍດີ </font> </strong> </center><br>
