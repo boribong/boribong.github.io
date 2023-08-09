@@ -9,6 +9,28 @@ title: Publications
 </center>
 
 <span style="font-size:1.2em">
+**16.** Kane AS, **Boribong BP**, Loiselle M, Chitnis AP, Chavez H, Moldawer LL, Larson SD, Badaki-Makun O, Irimia D, & Yonker LM. (2023). **Monocyte anisocytosis corresponds with increasing severity of COVID-19 in children**. *Frontiers in Pediatrics*. [https://doi.org/10.3389/fped.2023.1177048](https://doi.org/10.3389/fped.2023.1177048)
+</span>
+<br>
+
+ \textbf{}. \textit{} (2023). \href{https://doi.org/10.3389/fped.2023.1177048}{}
+
+<span style="font-size:1.2em">
+**15.** Burns MD, Bartsch YC, Davis JP, **Boribong BP**, Loiselle M, Kang J, Kane AS, Edlow AG, Fasano A, Alter G, & Yonker LM.  (2023). **Long-term humoral signatures following acute pediatric COVID-19 and Multisystem Inflammatory Syndrome in Children**. *Pediatric Research*. [https://doi.org/10.1038/s41390-023-02627-w](https://doi.org/10.1038/s41390-023-02627-w)
+</span>
+<br>
+
+<span style="font-size:1.2em">
+**14.** Yonker LM, Swank Z, Bartsch YC, Burns MD, Kane A, **Boribong BP**, Davis JP, Losielle M, Novak T, Senussi Y, Cheng CA, Burgess E, Edlow AG, Chou J, Dionne A, Balaguru D, Lahoud-Rahme M, Arditi M, Julg B, Randolph AG, Alter G, Fasano A, \& Walt DR. (2023). **Circulating Spike Protein Detected in Post–COVID-19 mRNA Vaccine Myocarditis**. *Circulation*. [https://doi.org/10.1161/CIRCULATIONAHA.122.061025](https://doi.org/10.1161/CIRCULATIONAHA.122.061025)
+</span>
+<br>
+
+<span style="font-size:1.2em">
+**13.** **Boribong BP**\*, LaSalle TJ*\*, Bartsch YC, Ellett F, Loiselle ME, Davis JP, Gonye ALK, Sykes DB, Hajizadeh S, Kreuzer J, Pillai S, Haas W, Edlow AG, Fasano A, Alter G, Irimia D, Sade-Feldman M, & Yonker LM (2022). **Neutrophil Profiles of Pediatric COVID-19 and Multisystem Inflammatory Syndrome in Children**. *Cell Reports Medicine*, eabn9237. [https://doi.org/10.1016/j.xcrm.2022.100848](https://doi.org/10.1016/j.xcrm.2022.100848) \*denotes equal contribution
+</span>
+<br>
+
+<span style="font-size:1.2em">
 **12.** Bartsch YC, St Dennis KJ, Kaplonek P, Kang J, Lam EC, Burns MD, Farkas EJ, Davis JP, **Boribong BP**, Edlow AG, Fasano A, Shreffler W, Zavadska D, Johnson M, Goldblatt D, Balazs AB, Yonker LM, & Alter G (2022). **SARS-CoV-2 mRNA vaccination elicits robust antibody responses in children**. *Science Translational Medicine*, eabn9237. [https://doi.org/10.1126/scitranslmed.abn9237](https://doi.org/10.1126/scitranslmed.abn9237)
 </span>
 <br>
