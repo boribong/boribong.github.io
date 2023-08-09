@@ -15,6 +15,5 @@ Please feel free to contact me at bboribong at mgh at harvard dot edu or connect
 <center><a href="mailto:bboribong@mgh.harvard.edu"><img src="/images/Email-Icon.png" alt="mailto:bboribong@mgh.harvard.edu" title="bboribong@mgh.harvard.edu" width="50" height="50" /></a>
 <a href="https://linkedin.com/in/brittany-boribong"><img src="/images/LinkedIn-Icon.png" alt="https://linkedin.com/in/brittany-boribong" title="https://linkedin.com/in/brittany-boribong" width="50" height="50" /></a>
 <a href="https://github.com/boribong"><img src="/images/GitHub-Icon.png" alt="https://github.com/boribong" title="https://github.com/boribong" width="50" height="50" /></a>
-<a href="https://twitter.com/bpboribong"><img src="/images/Twitter-Icon.png" alt="https://twitter.com/bboribong_" title="https://twitter.com/bboribong_" width="50" height="50" /></a>
-<a href="https://instagram.com/bpboribong"><img src="/images/Instagram-Icon.png" alt="https://instagram.com/bboribong" title="https://instagram.com/bboribong" width="50" height="50" /></a>
+<a href="https://twitter.com/bpboribong"><img src="/images/Twitter-Icon.png" alt="https://twitter.com/bpboribong" title="https://twitter.com/bpboribong" width="50" height="50" /></a>
 </center>
