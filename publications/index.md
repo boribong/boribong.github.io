@@ -13,8 +13,6 @@ title: Publications
 </span>
 <br>
 
- \textbf{}. \textit{} (2023). \href{https://doi.org/10.3389/fped.2023.1177048}{}
-
 <span style="font-size:1.2em">
 **15.** Burns MD, Bartsch YC, Davis JP, **Boribong BP**, Loiselle M, Kang J, Kane AS, Edlow AG, Fasano A, Alter G, & Yonker LM.  (2023). **Long-term humoral signatures following acute pediatric COVID-19 and Multisystem Inflammatory Syndrome in Children**. *Pediatric Research*. [https://doi.org/10.1038/s41390-023-02627-w](https://doi.org/10.1038/s41390-023-02627-w)
 </span>
