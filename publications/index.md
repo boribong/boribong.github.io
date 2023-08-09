@@ -19,12 +19,12 @@ title: Publications
 <br>
 
 <span style="font-size:1.2em">
-**14.** Yonker LM, Swank Z, Bartsch YC, Burns MD, Kane A, **Boribong BP**, Davis JP, Losielle M, Novak T, Senussi Y, Cheng CA, Burgess E, Edlow AG, Chou J, Dionne A, Balaguru D, Lahoud-Rahme M, Arditi M, Julg B, Randolph AG, Alter G, Fasano A, \& Walt DR. (2023). **Circulating Spike Protein Detected in Post–COVID-19 mRNA Vaccine Myocarditis**. *Circulation*. [https://doi.org/10.1161/CIRCULATIONAHA.122.061025](https://doi.org/10.1161/CIRCULATIONAHA.122.061025)
+**14.** Yonker LM, Swank Z, Bartsch YC, Burns MD, Kane A, **Boribong BP**, Davis JP, Losielle M, Novak T, Senussi Y, Cheng CA, Burgess E, Edlow AG, Chou J, Dionne A, Balaguru D, Lahoud-Rahme M, Arditi M, Julg B, Randolph AG, Alter G, Fasano A, & Walt DR. (2023). **Circulating Spike Protein Detected in Post–COVID-19 mRNA Vaccine Myocarditis**. *Circulation*. [https://doi.org/10.1161/CIRCULATIONAHA.122.061025](https://doi.org/10.1161/CIRCULATIONAHA.122.061025)
 </span>
 <br>
 
 <span style="font-size:1.2em">
-**13.** **Boribong BP**\*, LaSalle TJ\*, Bartsch YC, Ellett F, Loiselle ME, Davis JP, Gonye ALK, Sykes DB, Hajizadeh S, Kreuzer J, Pillai S, Haas W, Edlow AG, Fasano A, Alter G, Irimia D, Sade-Feldman M, & Yonker LM (2022). **Neutrophil Profiles of Pediatric COVID-19 and Multisystem Inflammatory Syndrome in Children**. *Cell Reports Medicine*, eabn9237. [https://doi.org/10.1016/j.xcrm.2022.100848](https://doi.org/10.1016/j.xcrm.2022.100848) \*denotes equal contribution
+**13.** **Boribong BP**\*, LaSalle TJ\*, Bartsch YC, Ellett F, Loiselle ME, Davis JP, Gonye ALK, Sykes DB, Hajizadeh S, Kreuzer J, Pillai S, Haas W, Edlow AG, Fasano A, Alter G, Irimia D, Sade-Feldman M, & Yonker LM (2022). **Neutrophil Profiles of Pediatric COVID-19 and Multisystem Inflammatory Syndrome in Children**. *Cell Reports Medicine*. [https://doi.org/10.1016/j.xcrm.2022.100848](https://doi.org/10.1016/j.xcrm.2022.100848) \*denotes equal contribution
 </span>
 <br>
 
