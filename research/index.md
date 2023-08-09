@@ -11,7 +11,7 @@ title: Research
 <img src="/images/TrackMate-Movie.gif" width="500" height="200"></center>
 <br>
 <span style="font-size:1.5em">
-I currently research the role of innate immunity within pediatric COVID-19 and Multisystem Inflammatory Syndrome in Children (MIS-C), focusing primarily on neutrophils and monocytes. Additionally, I am involved in several projects analyzing the humoral responses of children to novel mRNA vaccines for COVID-19.
+I currently research the role of innate immunity within pediatric COVID-19 and post-COVID conditions, such as Multisystem Inflammatory Syndrome in Children (MIS-C) and Long COVID, focusing primarily on neutrophils and monocytes. I also research humoral responses to novel mRNA vaccines for COVID-19.
 <br><br>
 To read my publications, please visit my 
 <a href="https://boribong.github.io/publications/">publications page</a>.
