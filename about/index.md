@@ -4,7 +4,7 @@ title: About
 ---
 
 <center> <strong> <font size = "6" color = "#cb4b16"> ສະບາຍດີ </font> </strong> </center><br>
-<img align="left" src="/images/BORIBONGBP_headshot.jpg"/>
+<img align="left" src="/images/BORIBONGBP_headshot.png"/>
 <span style="font-size:1.5em">
 Hello! My name is Brittany Boribong. I am currently a Senior Scientist, focusing on Immunology, at <a href="https://www.drop-genie.com/">DropGenie</a>. <br><br>
   
