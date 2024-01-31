@@ -11,7 +11,7 @@ title: Research
 <img src="/images/TrackMate-Movie.gif" width="500" height="200"></center>
 <br>
 <span style="font-size:1.25em">
-My postdoc research focused on investigating the role of innate immunity within pediatric COVID-19 and post-COVID conditions, such as Multisystem Inflammatory Syndrome in Children (MIS-C) and Long COVID. I also studied humoral responses to novel mRNA vaccines for COVID-19.
+My postdoc research focused on studying the immune response and pathophysiology of Multisystem Inflammatory Syndrome in Children (MIS-C) and Long COVID, as well as the humoral immune response of children in response to mRNA COVID vaccination. My research during my Ph.D. involved quantifying neutrophil migration during inflammation within sepsis using microfluidic devices and developing a mathematical model to understand the underlying mechanisms driving neutrophil decision-making. 
 <br><br>
 To read my publications, please visit my 
 <a href="https://boribong.github.io/publications/">publications page</a>.
