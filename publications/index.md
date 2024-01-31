@@ -9,6 +9,16 @@ title: Publications
 </center>
 
 <span style="font-size:1.2em">
+**18.** Philpott JD, Miller J, **Boribong BP**, Charles S, Davis JP, Kazimierczyk S, Jimena B, Leonard MM, Shreffler WG, Fasano A, Yonker LM, & Jain N. (2023). **Antigen-specific T cell responses in SARS-CoV-2 mRNA-vaccinated children**. *Cell Reports Medicine*. 
+[https://doi.org/10.1016/j.xcrm.2023.101298](https://doi.org/10.1016/j.xcrm.2023.101298)
+</span>
+<be>
+<span style="font-size:1.2em">
+**17.** Proal AD, VanElzakker MB, Aleman S, Bach K, **Boribong BP**, Buggert M, Cherry S, Chertow DS, Davies HE, Dupont CL, Deeks SG, Eimer W, Ely EW, Fasano A, Freire M, Geng LN, Griffin DE, Henrich TJ, Iwasaki A, Izquierdo-Garcia D, Locci M, Mehandru S, Painter MM, Peluso MJ, Pretorius E, Price DA, Putrino D, Scheuermann RH, Tan GS, Tanzi RE, VanBrocklin HF, Yonker LM, & Wherry EJ.. (2023). *SARS-CoV-2 reservoir in post-acute sequelae of COVID-19 (PASC)**. *Nature Immunology*. [https://doi.org/10.1038/s41590-023-01601](https://doi.org/10.1038/s41590-023-01601)
+</span>
+<br>
+
+<span style="font-size:1.2em">
 **16.** Kane AS, **Boribong BP**, Loiselle M, Chitnis AP, Chavez H, Moldawer LL, Larson SD, Badaki-Makun O, Irimia D, & Yonker LM. (2023). **Monocyte anisocytosis corresponds with increasing severity of COVID-19 in children**. *Frontiers in Pediatrics*. [https://doi.org/10.3389/fped.2023.1177048](https://doi.org/10.3389/fped.2023.1177048)
 </span>
 <br>
