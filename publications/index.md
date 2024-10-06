@@ -9,6 +9,12 @@ title: Publications
 </center>
 
 <span style="font-size:1.2em">
+**19.** Tang Y\*, **Boribong BP**\*, Swank ZN, Demokritou M, Luban MAF, Fasano A, Du M, Wolf RL, Griffiths J, Shultz J, Borberg E, Chalise S, Gonzalez WI, Walt DR, Yonker LM, \& Horwitz BH.  (2024). **COVID-19 mRNA Vaccines Induce Robust Levels of IgG but Limited Amounts of IgA Within the Oronasopharynx of Young Children**. *The Journal of Infectious Diseases*. 
+[https://doi.org/10.1093/infdis/jiae450](https://doi.org/10.1093/infdis/jiae450) \*denotes equal contribution
+</span>
+<br>
+
+<span style="font-size:1.2em">
 **18.** Philpott JD, Miller J, **Boribong BP**, Charles S, Davis JP, Kazimierczyk S, Jimena B, Leonard MM, Shreffler WG, Fasano A, Yonker LM, & Jain N. (2023). **Antigen-specific T cell responses in SARS-CoV-2 mRNA-vaccinated children**. *Cell Reports Medicine*. 
 [https://doi.org/10.1016/j.xcrm.2023.101298](https://doi.org/10.1016/j.xcrm.2023.101298)
 </span>
